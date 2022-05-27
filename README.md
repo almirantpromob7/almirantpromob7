@@ -1,6 +1,6 @@
 ### Hey bro 👋
 
-- 🌱 Estudando Java e JavaScript
+- 🌱 Java and JavaScript
 - 📫 e-mail and Tell. - almirantepromob@gmail.com / 61 99574-4876
 - 😄 Pronouns: ele/dele
 <!--
